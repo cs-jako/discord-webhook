@@ -12,15 +12,15 @@
         }
     ],
     "require": {
-        "php": "^8.1",
-        "guzzlehttp/guzzle": ">=7.2",
-        "symfony/serializer": "^4.4.35 || ^5.3.12 || ^6.0",
-        "doctrine/collections": "^1.6",
-        "symfony/yaml": "^4.0 || ^5.0 || ^6.0",
-        "symfony/property-access": "^4.0 || ^5.0 || ^6.0"
+        "php": "^8.3",
+        "guzzlehttp/guzzle": ">=7.9.2",
+        "symfony/serializer": "^4.4.35 || ^5.3.12 || ^6.4.11",
+        "doctrine/collections": "^1.8.0",
+        "symfony/yaml": "^4.0 || ^5.0 || ^6.4.11",
+        "symfony/property-access": "^4.0 || ^5.0 || ^6.4.11"
     },
     "require-dev": {
-        "symfony/var-dumper": "^5.0"
+        "symfony/var-dumper": "^5.4.43"
     },
     "config": {
         "vendor-dir": "src/vendor"
